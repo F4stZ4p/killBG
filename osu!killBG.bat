@@ -1,4 +1,5 @@
 @echo off
+chcp 1251
 mode con cols=45 lines=10
 title osu!killBG
 color 0D
