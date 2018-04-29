@@ -20,4 +20,4 @@ osu! Folder: - input osu! folder. example: F:\osu! (without backslash in the end
 ```
 
 ###### Version
-- [x] Latest version - 28.04.2018
+- [x] Latest version - 29.04.2018
