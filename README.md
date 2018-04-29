@@ -19,5 +19,5 @@ Check for BGs every (seconds): - input time in seconds. I recommend 5 because it
 osu! Folder: - input osu! folder. example: F:\osu! (without backslash in the end).
 ```
 
-###### Versions
+###### Version
 - [x] Latest version - 28.04.2018
