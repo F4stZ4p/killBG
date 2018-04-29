@@ -8,7 +8,7 @@ No problems! Here is killBG program. It will help you automatically delete all v
 
 ```
 Check for BGs every (seconds): - input time in seconds. I recommend 5 because it won't cause lag.
-osu! Folder: - input osu! folder. example: F:\osu!
+osu! Folder: - input osu! folder. example: F:\osu! (without backslash in the end).
 ```
 
 # Why killBG?
