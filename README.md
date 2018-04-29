@@ -9,7 +9,7 @@ No problems! Here is killBG program. It will help you automatically delete all v
 - It will remove all backgrounds and built-in skins.
 - It doesn't use too much system resources.
 - It doesn't require installation.
-- It is free and open-source so You can modify it.
+- It is free and open-source so you can modify it.
 - It is only 592 bytes!
 
 ###### Having troubles with configuring?
